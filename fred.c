@@ -1,6 +1,5 @@
 Test
-Yadda
-Fred
+Yadd
 Yadda
 Yadda
 And again
