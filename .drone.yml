@@ -2,5 +2,5 @@ pipeline:
   build:
     image: localhost:5000/testjre
     commands:
-      - go echo Hello world
+      - go echo Hello world 2
       - go ls
