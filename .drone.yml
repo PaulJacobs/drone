@@ -2,5 +2,5 @@ pipeline:
   build:
     image: testjre
     commands:
-      - go pwd
-      - go ls -a
+      - pwd
+      - ls -a
