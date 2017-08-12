@@ -3,4 +3,4 @@ pipeline:
     image: testjre
     commands:
       - go echo Hello world 2
-      - go ls
+      - go ls -a
