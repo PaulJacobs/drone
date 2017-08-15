@@ -1,6 +1,6 @@
 pipeline:
   build:
-    image: testjre
+    image: cximage
     commands:
       - pwd
       - ls -a
